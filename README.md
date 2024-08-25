@@ -1,24 +1,7 @@
-# blog
+### Установка и запуск проекта
 
-## Project setup
-```
-npm install
-```
+`npm install` — устанавливает необходимые пакеты
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+`npm run serve` — запуск проекта
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`npm run build` — сборка проекта
