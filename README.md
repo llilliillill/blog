@@ -1,3 +1,6 @@
+### Деплой
+https://llilliillill.github.io/blog/blog
+
 ### Установка и запуск проекта
 
 `npm install` — устанавливает необходимые пакеты
