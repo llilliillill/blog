@@ -1,5 +1,5 @@
 ### Деплой
-https://llilliillill.github.io/blog/blog
+https://llilliillill.github.io/blog
 
 ### Установка и запуск проекта
 
